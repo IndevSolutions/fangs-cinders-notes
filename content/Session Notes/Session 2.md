@@ -1,0 +1,44 @@
+---
+publish: true
+created: 2026-06-09T16:00:06.460+10:00
+modified: 2026-06-09T16:09:25.710+10:00
+---
+
+- Ser Cadric of the Goldmasks
+- Travelling through forest,
+- **LONG REST**
+- Fought some bandits at [[Rillstead East Road Bandit Ambush]] lead by [[Drachenweld Scout]]
+- Interrogated [[Jerry]], he was nice.
+- Buried the bodies.
+- Went to bandit camp and looted:
+  - Coins (75gp, 890sp, 532cp)
+  - 10 GP gemstones (×4; worth 40 GP total): Obsidian (black), ×2 Lapis lazuli (light and dark blue with yellow flecks) Banded agate (striped brown, blue, white, or red)
+  - 50 GP gemstones (×8; worth 400 GP total): Sardonyx (bands of red and white), ×2 Quartz (white, smoky gray, or yellow), ×2 Citrine (pale yellow brown), ×2 Chrysoprase (green) Bloodstone (dark gray with red flecks)
+  - Handheld mirror set in a painted wooden frame worth 15gp
+  - Gold bracelet worth 25gp
+  - Rope of Climbing
+  - Antitoxins (x 2)
+  - Potion of Healing (Lesser) x 1
+- **LONG REST**
+- Moon is waning crescent
+- Fey Tricks while we were asleep.
+- Found a body on the road: unrecognizable, on the tree above them. Cut markings, written small in Sylvan "Thief, Killer, Murderer, Thief, Killer, Murderer..." repeating. Likely killed by [[Quicklings]]:
+  - Shield with Owl Insignia found on the body.
+  - Pack with rations
+  - 5 GP
+  - Rope
+  - Half Tended to Explorers kit (Not a full kit) - basically rope and candles.
+- Continued and circumvented a trap
+- Arrive at a camp, impromptu/garrison
+- More people with the same uniform as the dead body (Owl Crest)
+- Horse tried to bolt, the group in the camp got it under control.
+- Met [[Sir Falkwin]] of the [[Blackmere Wardens]] and his subordinate [[Oswald]] (Cleric of [[Agathys - Goddess of Fate]] - Most worshipped goddess in Etria, has a well known that performing rituals and sermons of Agathys give guaranteed boons, but the boons tend to be significantly smaller than other deities) (Pattern zigzags like a pentagram with too many sides and not at equal angles, typically in full it is between two hands like a cats cradle)
+- Sir Falkwin talks to us:
+  - Learned they weren't going to make the journey unharrowed.
+  - Bandits have attacked the group.
+  - Man traps set by, hostile parties on their way.
+  - Oswald is the healer, doing his best to keep up but overwhelmed.
+  - "Jinxes" start to hit them, in the night, men woke screaming being attacked by 'shadows surrounded by blades'... other havoc. Men think its a curse. Falkwin thinks it witchcraft. Nobody is sure.
+  - Too dangerous to move this many men through the forest now.
+  - [[Crescentia]] offered to help, Falkwins men brought out a corpse riddled with black arrows.
+- DM Inspiration
