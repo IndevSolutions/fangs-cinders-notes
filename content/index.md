@@ -1,5 +1,6 @@
 ---
 title: Campaign Notes
+publish: true
 ---
 
 # Cinders Campaign Notes

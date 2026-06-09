@@ -1,4 +1,5 @@
 ---
+publish: true
 name: Jerry
 type: npc
 tier: minor
